@@ -1,2 +1,6 @@
 hi
+<<<<<<< HEAD
 this branch develop.
+=======
+this is branch dev1
+>>>>>>> dev1
